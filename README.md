@@ -1,6 +1,6 @@
-# Blog Website - THE DAILY PULSE
+# Article Review Website
 
-Welcome to the Blog Website project! This is a simple web application built with React.js for the frontend and Express.js for the backend, allowing users to create, view, update, and delete blog posts.
+Welcome to the project! This is a simple web application built with React.js for the frontend and Express.js for the backend, allowing users to create, view, update, and delete review posts.
 
 ## Getting Started
 
@@ -17,13 +17,7 @@ Before you begin, make sure you have the following installed on your system:
 - MongoDB
 - JWT (JSON Web Tokens)
 - Tailwind CSS
-
-
-## Clone the repository.
-   ```bash
-   git clone https://github.com/atharvarakshak/BlogWebsite.git
-   ```
-
+- 
 ### Backend
 
 1. Navigate to the `backend` directory.
